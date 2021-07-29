@@ -1,0 +1,3 @@
+Before use this tool, please follow the below step：
+Step 1: Update your SMBUS driver to last version, or you can't use this tool. You can use Windows Update to do that.
+Step 2: Use Administrator run your program, or this tool won't be work.
